@@ -3,6 +3,7 @@
   <a href="https://github.com/Balogun Victor/wikky-chat">
     <img src="https://getlogovector.com/wp-content/uploads/2020/10/readme-logo-vector.png"  alt="Logo" width="200" height="200">
   </a>
+![Screenshot (17)](https://user-images.githubusercontent.com/93051955/229336263-d83bf46e-4364-4ef9-af62-558712ee0930.png)
 
   <h3 align="center">A Chat application built on React.js</h3>
 
